@@ -29,3 +29,4 @@ obj.mech(radius)
 
 
 ## Result
+The program successfully calculates the area of a circle using a class (cse) and a method (mech) in Python
